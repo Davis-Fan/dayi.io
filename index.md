@@ -11,7 +11,7 @@ TODO:
 
 ## About Me
 
-I am a 2nd year Ph.D. student at The Ohio State University, advised by Prof. Xiaodong Zhang. I received my B.S. from [Southern University of Science and Technology](http://www.sustech.edu.cn/en) in 2021. My research interest is in the Parallel Computing, Computer System and Machine Learning.
+I am a 2nd year Ph.D. student at The Ohio State University, advised by Prof. Xiaodong Zhang. I received my B.S. from [Southern University of Science and Technology](http://www.sustech.edu.cn/en) in 2021. My research interest focuses on Parallel Computing, Computer System and Machine Learning.
 
 ## Experience
 
@@ -19,9 +19,11 @@ I am a 2nd year Ph.D. student at The Ohio State University, advised by Prof. Xia
   <br>
   Department of Computer Science and Engineering, The Ohio State University
   <br>
-  [01/2023 - 05/2023] CSE 5523: Machine Learning and Statistical Pattern Recognition
+  [01/2023 - 05/2023] CSE 3421: Introduction to Computer Architecture
   <br>
-  [08/2022 - 12/2022] CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases
+  [09/2022 - 12/2022] CSE 3421: Introduction to Computer Architecture
+  <br>
+  [01/2022 - 05/2022] CSE 3421: Introduction to Computer Architecture
 
 - **Undergraduate Instructional Assistant**
   <br>
