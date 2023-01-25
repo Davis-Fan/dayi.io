@@ -38,9 +38,9 @@ I am a 2nd year Ph.D. student from the Department of Computer Science and Engine
   [07/2019 - 08/2019] Image recognition for auto-driving, advised by Prof. Jia Pan.
   
 
-## Misc
+## Photography
 
-I have been a member of the student club [Chinese Folk Music Orchestra](https://activities.osu.edu/involvement/student_organizations/find_a_student_org/?i=dd4a238a-783f-4be7-b4f6-0efc7a127bbd&l=C&c=Columbus&page=2) at Ohio State since 2017 as a Bamboo Flute player. We actively perform traditional Chinese music ensembles around the Columbus area. Follow our [Facebook](https://www.facebook.com/osucfmo) and [Instragram](https://www.instagram.com/osu_cfmo) for our life and activities!
+I really enjoy capturing the beauty of this world. The belows are some of my favorite photoes.
 
 ![CFMO 2018 Concert](/assets/img/NY.JPG)
 
