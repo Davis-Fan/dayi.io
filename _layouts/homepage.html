@@ -33,6 +33,10 @@
 
         <h1>{{ site.title }}</h1> 
         
+        {% if site.nickname %}
+        {{ site.nickname }}
+        <br>
+        {% endif %}
         {% if site.position %}
         {{ site.position }}
         <br>
