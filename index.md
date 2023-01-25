@@ -31,6 +31,12 @@ I am a 2nd year Ph.D. student from the Department of Computer Science and Engine
   <br>
   [01/2021 - 05/2021] High-performance IoT system, advised by Prof. Trevor E. Carlson.
   
+- **Undergraduate Research Assistant**
+  <br>
+  Department of Computer Science, The University of Hong Kong
+  <br>
+  [07/2019 - 08/2019] Image recognition for auto-driving, advised by Prof. Jia Pan.
+  
 
 ## Misc
 
