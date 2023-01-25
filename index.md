@@ -11,7 +11,7 @@ TODO:
 
 ## About Me
 
-I am a 2nd year Ph.D. student at The Ohio State University, advised by Prof. Xiaodong Zhang. I received my B.S. from Southern University of Science and Technology in 2021. My research interest is in the Parallel Computing, Computer System and Machine Learning.
+I am a 2nd year Ph.D. student at The Ohio State University, advised by Prof. Xiaodong Zhang. I received my B.S. from [Southern University of Science and Technology](http://www.sustech.edu.cn/en) in 2021. My research interest is in the Parallel Computing, Computer System and Machine Learning.
 
 ## Experience
 
