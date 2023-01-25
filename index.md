@@ -11,7 +11,7 @@ TODO:
 
 ## About Me
 
-I am a 2nd year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received my B.S. in Computer Science and Engineering from OSU in 2021. My research interest is in the intersection of data visualization and machine learning.
+I am a 2nd year Ph.D. student at The Ohio State University, advised by Prof. Xiaodong Zhang. I received my B.S. from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2021. My research interest is in the Parallel Computing, Computer System and Machine Learning.
 
 ## Experience
 
