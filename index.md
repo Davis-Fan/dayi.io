@@ -25,15 +25,15 @@ I am a 2nd year Ph.D. student from the Department of Computer Science and Engine
   <br>
   [01/2022 - 05/2022] CSE 3421: Introduction to Computer Architecture
 
-- **Undergraduate Research Assistant**
+- **Undergraduate Research Assistant -- Singapore**
   <br>
-  Department of Computer Science, National University of Singapore, Singapore
+  Department of Computer Science, National University of Singapore
   <br>
   [01/2021 - 05/2021] High-performance IoT system, advised by Prof. Trevor E. Carlson.
   
-- **Undergraduate Research Assistant**
+- **Undergraduate Research Assistant -- Hong Kong**
   <br>
-  Department of Computer Science, The University of Hong Kong, Hong Kong
+  Department of Computer Science, The University of Hong Kong
   <br>
   [07/2019 - 08/2019] Image recognition for auto-driving, advised by Prof. Jia Pan.
   
