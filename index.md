@@ -19,11 +19,7 @@ I am a 2nd year Ph.D. student from the Department of Computer Science and Engine
   <br>
   Department of Computer Science and Engineering, The Ohio State University
   <br>
-  [01/2023 - 05/2023] CSE 3421: Introduction to Computer Architecture
-  <br>
-  [09/2022 - 12/2022] CSE 3421: Introduction to Computer Architecture
-  <br>
-  [01/2022 - 05/2022] CSE 3421: Introduction to Computer Architecture
+  [01/2022 - Present] CSE 3421: Introduction to Computer Architecture
 
 - **Undergraduate Research Assistant -- Singapore**
   <br>
