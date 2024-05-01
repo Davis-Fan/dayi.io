@@ -34,6 +34,9 @@ I am a 2nd year Ph.D. student from the Department of Computer Science and Engine
   [07/2019 - 08/2019] Image recognition for auto-driving, advised by Prof. Jia Pan.
   
 
+## Publication
+- **Dayi Fan**, Rubao Lee, and Xiaodong Zhang. [X-TED: Massive Parallelization of Tree Edit Distance](https://www.vldb.org/pvldb/vol17/p1683-fan.pdf). PVLDB, 17(7): 1683-1696, 2024.
+
 ## Photography
 
 I really enjoy capturing the beauty of this world. The belows are some of my favorite photoes.
