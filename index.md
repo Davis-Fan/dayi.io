@@ -21,6 +21,7 @@ I am a 2nd year Ph.D. student from the Department of Computer Science and Engine
   <br>
   [01/2022 - Present] CSE 3421: Introduction to Computer Architecture
 
+<!--
 - **Undergraduate Research Assistant -- Singapore**
   <br>
   Department of Computer Science, National University of Singapore
@@ -32,6 +33,7 @@ I am a 2nd year Ph.D. student from the Department of Computer Science and Engine
   Department of Computer Science, The University of Hong Kong
   <br>
   [07/2019 - 08/2019] Image recognition for auto-driving, advised by Prof. Jia Pan.
+-->
   
 
 ## Publication
