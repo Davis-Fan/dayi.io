@@ -11,7 +11,7 @@ TODO:
 
 ## About Me
 
-I am a 2nd year Ph.D. student from the Department of Computer Science and Engineering at [The Ohio State University](https://www.osu.edu), advised by Prof. Xiaodong Zhang. I received my B.S. from [Southern University of Science and Technology](http://www.sustech.edu.cn/en) in 2021. My research interest focuses on Parallel Computing, Computer System and Machine Learning. My Chinese name is 范达熠.
+I am a 2nd year Ph.D. student from the Department of Computer Science and Engineering at [The Ohio State University](https://www.osu.edu), advised by Prof. Xiaodong Zhang. I received my B.S. from [Southern University of Science and Technology](http://www.sustech.edu.cn/en) in 2021. My research interest focuses on Parallel Computing, Algorithm Engineering, and Computer System. My Chinese name is 范达熠.
 
 ## Experience
 
