@@ -41,11 +41,13 @@ I am a 3rd year Ph.D. student from the Department of Computer Science and Engine
 ## Publication
 - **Dayi Fan**, Rubao Lee, and Xiaodong Zhang. [X-TED: Massive Parallelization of Tree Edit Distance](https://www.vldb.org/pvldb/vol17/p1683-fan.pdf). PVLDB, 17(7): 1683-1696, 2024.
 
+<!--
 ## Photography
 
 I really enjoy capturing the beauty of this world. The belows are some of my favorite photoes.
 
 ![CFMO 2018 Concert](/assets/img/NY.JPG)
+-->
 
 <!-- <div class='globeContainer'>
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3xW1OFo-Ovl9vGJVBazgnc3fWzVdl0jqLTIW8_X9Zzc"></script>
