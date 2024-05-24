@@ -21,13 +21,13 @@ I am a 3rd year Ph.D. student from the Department of Computer Science and Engine
   <br>
   [01/2022 - Present] CSE 3421: Introduction to Computer Architecture
 
-<!--
+
 - **Undergraduate Exchange -- Singapore**
   <br>
   Department of Computer Science, National University of Singapore
   <br>
   [01/2021 - 05/2021] Efficient computer systems, advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).
--->  
+
 
 <!--
 - **Undergraduate Research Assistant -- Hong Kong**
