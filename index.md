@@ -11,7 +11,7 @@ TODO:
 
 ## About Me
 
-I am a 2nd year Ph.D. student from the Department of Computer Science and Engineering at [The Ohio State University](https://www.osu.edu), advised by Prof. [Xiaodong Zhang](https://cse.osu.edu/people/zhang.574). I received my B.S. from [Southern University of Science and Technology](http://www.sustech.edu.cn/en) in 2021. My research interest focuses on Parallel Computing, Algorithm Engineering, and Computer System. My Chinese name is 范达熠.
+I am a 3rd year Ph.D. student from the Department of Computer Science and Engineering at [The Ohio State University](https://www.osu.edu), advised by Prof. [Xiaodong Zhang](https://cse.osu.edu/people/zhang.574). I received my B.S. from [Southern University of Science and Technology](http://www.sustech.edu.cn/en) in 2021. My research interest focuses on Parallel Computing, Algorithm Engineering, and Computer System. My Chinese name is 范达熠.
 
 ## Experience
 
@@ -21,12 +21,13 @@ I am a 2nd year Ph.D. student from the Department of Computer Science and Engine
   <br>
   [01/2022 - Present] CSE 3421: Introduction to Computer Architecture
 
-
+<!--
 - **Undergraduate Exchange -- Singapore**
   <br>
   Department of Computer Science, National University of Singapore
   <br>
   [01/2021 - 05/2021] Efficient computer systems, advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).
+-->  
 
 <!--
 - **Undergraduate Research Assistant -- Hong Kong**
