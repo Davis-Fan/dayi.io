@@ -40,8 +40,8 @@ I am a 3rd year Ph.D. student from the Department of Computer Science and Engine
   
 
 ## Publication
-- **Dayi Fan**, Rubao Lee, and Xiaodong Zhang. [X-TED: Massive Parallelization of Tree Edit Distance](https://www.vldb.org/pvldb/vol17/p1683-fan.pdf). PVLDB, 17(7): 1683-1696, 2024.
-- Liang Geng, Hao Wang, Jingsong Meng, **Dayi Fan**, Sami Ben-Romdhane, Hari Kadayam Pichumani, Vinay Phegade, and Xiaodong Zhang. [RR-Compound: RDMA-Fused gRPC for Low Latency, High Throughput, and Easy Interface](https://ieeexplore.ieee.org/abstract/document/10538182). IEEE Transactions on Parallel and Distributed Systems, vol. 35, no. 8, pp. 1488-1505, Aug. 2024, doi: 10.1109/TPDS.2024.3404394.
+- **_Dayi Fan_**, Rubao Lee, and Xiaodong Zhang. [X-TED: Massive Parallelization of Tree Edit Distance](https://www.vldb.org/pvldb/vol17/p1683-fan.pdf). PVLDB, 17(7): 1683-1696, 2024.
+- Liang Geng, Hao Wang, Jingsong Meng, **_Dayi Fan_**, Sami Ben-Romdhane, Hari Kadayam Pichumani, Vinay Phegade, and Xiaodong Zhang. [RR-Compound: RDMA-Fused gRPC for Low Latency, High Throughput, and Easy Interface](https://ieeexplore.ieee.org/abstract/document/10538182). IEEE Transactions on Parallel and Distributed Systems, vol. 35, no. 8, pp. 1488-1505, Aug. 2024, doi: 10.1109/TPDS.2024.3404394.
 
 ## Photography
 
