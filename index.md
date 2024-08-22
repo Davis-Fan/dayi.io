@@ -19,16 +19,16 @@ I am a 3rd year Ph.D. student from the Department of Computer Science and Engine
   <br>
   Department of Computer Science and Engineering, The Ohio State University
   <br>
-  [01/2022 - Present] CSE 3421: Introduction to Computer Architecture
+  [01/2022 - 05/2024] CSE 3421: Introduction to Computer Architecture
 
 
-<!--
+
 - **Undergraduate Exchange -- Singapore**
   <br>
   Department of Computer Science, National University of Singapore
   <br>
   [01/2021 - 05/2021] Efficient computer systems, advised by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).
--->
+
 
 <!--
 - **Undergraduate Research Assistant -- Hong Kong**
@@ -41,14 +41,14 @@ I am a 3rd year Ph.D. student from the Department of Computer Science and Engine
 
 ## Publication
 - **Dayi Fan**, Rubao Lee, and Xiaodong Zhang. [X-TED: Massive Parallelization of Tree Edit Distance](https://www.vldb.org/pvldb/vol17/p1683-fan.pdf). PVLDB, 17(7): 1683-1696, 2024.
+- Liang Geng, Hao Wang, Jingsong Meng, **Dayi Fan**, Sami Ben-Romdhane, Hari Kadayam Pichumani, Vinay Phegade, and Xiaodong Zhang. [RR-Compound: RDMA-Fused gRPC for Low Latency, High Throughput, and Easy Interface](https://ieeexplore.ieee.org/abstract/document/10538182). IEEE Transactions on Parallel and Distributed Systems, vol. 35, no. 8, pp. 1488-1505, Aug. 2024, doi: 10.1109/TPDS.2024.3404394.
 
-<!--
 ## Photography
 
 I really enjoy capturing the beauty of this world. The belows are some of my favorite photoes.
 
 ![CFMO 2018 Concert](/assets/img/NY.JPG)
--->
+
 
 <!-- <div class='globeContainer'>
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3xW1OFo-Ovl9vGJVBazgnc3fWzVdl0jqLTIW8_X9Zzc"></script>
