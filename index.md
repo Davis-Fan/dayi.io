@@ -11,7 +11,7 @@ TODO:
 
 ## About Me
 
-I am a 3rd year Ph.D. student from the Department of Computer Science and Engineering at [The Ohio State University](https://www.osu.edu), advised by Prof. [Xiaodong Zhang](https://cse.osu.edu/people/zhang.574). I received my B.S. from [Southern University of Science and Technology](http://www.sustech.edu.cn/en) in 2021. My research interest focuses on Parallel Computing, Algorithm Engineering, and Computer System. My Chinese name is 范达熠.
+I am a 3rd year Ph.D. student from the Department of Computer Science and Engineering at [The Ohio State University](https://www.osu.edu), advised by Prof. [Xiaodong Zhang](https://cse.osu.edu/people/zhang.574). I received my B.S. from [Southern University of Science and Technology](http://www.sustech.edu.cn/en) in 2021. My research interest focuses on Parallel Computing, Algorithm Engineering, and Computer System. My Chinese name is 范达熠 and more details can be found in my [resume](https://drive.google.com/file/d/1RkhMmOmWsd4dPDp3lOftOP5HsAALMq0R/view?usp=drive_link).
 
 ## Experience
 
